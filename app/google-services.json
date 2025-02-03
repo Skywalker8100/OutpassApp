@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8948558609",
+    "project_id": "outpass-e77d9",
+    "storage_bucket": "outpass-e77d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8948558609:android:9067091f07f0d1fefbfab0",
+        "android_client_info": {
+          "package_name": "com.example.outpasstrial00"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdgTRDuwodjm5MreofBsR75VQKHWGXkYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
